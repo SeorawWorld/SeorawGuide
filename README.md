@@ -1,12 +1,12 @@
 # SeorawGuide
 Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World 社区内始终有效。任何规则制度与本手册冲突时，以本手册为主。
 
-## Seoraw's World 服务器公共约束
+## 1. 服务器公共约束
 1. 永久禁止管理员权限（即：`op-permission-level=0`）
 2. 永久禁止非生存模式
 3. 永久禁止控制台命令
 
-## Seoraw's World 服务器约定
+## 2. 服务器约定
 1. 使用最新 Minecraft 版本
 2. 正版验证
 3. 无白名单
