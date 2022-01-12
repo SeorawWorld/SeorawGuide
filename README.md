@@ -2,13 +2,13 @@
 Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World 社区内始终有效。任何规则制度与本手册冲突时，以本手册为主。
 
 ## 1. 服务器公共约束
-> 以下条目由 SeorawCore 插件强制执行。
+以下条目是构成 Seoraw's World 服务器的前提，由 SeorawCore 插件强制执行。
 1. 永久禁止管理员权限（即：`op-permission-level=0`）
 2. 永久禁止非生存模式
 3. 永久禁止控制台命令
 
 ## 2. 服务器基本约定
-> 以下条目由 Seoraw's World 现任 Maintainer 遵守。
+以下条目是构成 Seoraw's World 服务器的前提，由 Seoraw's World 社区现任 Maintainer 执行。
 1. 使用最新 Minecraft 版本
 2. 正版验证
 3. 无白名单
@@ -17,21 +17,22 @@ Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World �
 6. 公开服务器基本设置（[SeorawServer](https://github.com/SeorawWorld/SeorawServer)）
 7. 不保存任何运行日志
 
-## 3. 角色
-> Seoraw's World 社区包含以下角色分类，分别对应不同的指责。
+## 3. 社区角色
+Seoraw's World 社区包含以下角色分类，分别对应不同的职责与权利。
 
 ### Maintainer
 Seoraw's World 社区的维护人员，在遵守服务器基本约定的前提下，维持服务器的稳定运行。
 
-**职责和权利**
-1. 必要时向 Approver & Contributor 提供报错信息
+职责和权利：
+1. 必要时向 Approver & Contributor 提供服务器运行报错
 2. 必要时重新启动或临时关闭服务器
+3. 提供 Seoraw's World 服务器的运行环境
 
 目前由 Seoraw 本人担任。
 
 ### Approver
 
-**职责和权利**
+职责和权利：
 
 ### Contributor
 
