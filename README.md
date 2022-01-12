@@ -21,13 +21,13 @@ Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World �
 > Seoraw's World 社区包含以下角色分类，分别对应不同的指责。
 
 ### Maintainer
-> Seoraw's World 社区的维护人员，在遵守服务器基本约定的前提下，维持服务器的稳定运行。
+Seoraw's World 社区的维护人员，在遵守服务器基本约定的前提下，维持服务器的稳定运行。
 
 **职责和权利**
 1. 必要时向 Approver & Contributor 提供报错信息
 2. 必要时重新启动或临时关闭服务器
 
-> 目前由 Seoraw 本人担任。
+目前由 Seoraw 本人担任。
 
 ### Approver
 
