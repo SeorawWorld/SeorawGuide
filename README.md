@@ -14,9 +14,9 @@ Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World �
 1. Seoraw's World 将全局永久禁止管理员权限（即：`op-permission-level=0`），同时将永久禁止非生存模式的角色出现。
 2. Seoraw's World 将施行正版验证，这意味着加入 Seoraw's World 需要 MineCraft 的正版用户，同时服务器将不会启用白名单系统，用户可随时进入。
 3. Seoraw's World 公开了服务器内的世界地图资源与全部插件。
-（[您可以通过以下链接进行下载](https://github.com/SeorawWorld/SeorawGuide/blob/main/world_download.md)
+（[地图资源](https://github.com/SeorawWorld/SeorawGuide/blob/main/world_download.md)
  [SeorawCore](https://github.com/SeorawWorld/SeorawCore) [SeorawPlugin](https://github.com/SeorawWorld/SeorawPlugin))
-4. Seoraw's World 将会公开服务器基本设置。（您可以通过以下链接进行查阅[SeorawServer](https://github.com/SeorawWorld/SeorawServer)）
+4. Seoraw's World 将会公开服务器基本设置。（您可以通过以下链接进行查阅 [SeorawServer](https://github.com/SeorawWorld/SeorawServer)）
 5. Seoraw's World 将永久禁止启用控制台命令，同时不会保存任何运行日志。
 
 ## 2. 社区角色
