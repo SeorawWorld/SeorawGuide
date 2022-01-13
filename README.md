@@ -64,3 +64,6 @@ Seoraw's World 的成员，在遵守公共约定且不破坏 Seoraw's World 的�
 要求：
 1. 所有人都是 Member 角色。
 
+## 3. 开始
+
+Seoraw's World 的服务器 IP 地址是 `play.seoraw.world`，需要 Minecraft 1.18.1 版本。
