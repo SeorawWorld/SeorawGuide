@@ -39,7 +39,7 @@ Seoraw's World 的建设者，在遵守公共约定的前提下，向 Seoraw's W
 
 职责和权利：
 1. 维护自己所提交代码的职责
-3. 拥有向 Seoraw's World 提出建议或推送代码的权力
+2. 拥有向 Seoraw's World 提出建议或推送代码的权力
 
 要求：
 1. 任何期望 Seoraw's World 良性发展的人都可以担任 Cotributor 角色。
@@ -63,8 +63,3 @@ Seoraw's World 的维护者，在遵守公共约定的前提下，对 Contributo
 要求：
 1. 任何人都可以成为 Player 角色。
 
-## 3. 构成
-
-### SeorawCore
-
-...
