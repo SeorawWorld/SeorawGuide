@@ -48,8 +48,8 @@ Seoraw's World 的建设者，在遵守公共约定的前提下，向 Seoraw's W
 Seoraw's World 的维护者，在遵守公共约定的前提下，对 Contributor 的建设内容进行审核 。
 
 职责和权利：
-2. 拥有接受或驳回来自 Contributor 推送的权力
-3. 持有实现或驳回来自 Contributor 建议的权力 
+1. 拥有接受或驳回来自 Contributor 推送的权力
+2. 持有实现或驳回来自 Contributor 建议的权力 
 
 要求：
 1. 正持有 Cotributor 身份并已向 Seoraw's World 提交过多次代码
