@@ -45,7 +45,7 @@ Seoraw's World 的建设者，在遵守公共约定的前提下，向 Seoraw's W
 1. 任何期望 Seoraw's World 良性发展的人都可以担任 Cotributor 角色。
 
 ### Supervisor
-Seoraw's World 的维护者，在遵守公共约定的前提下，对 Contributor 的建设内容进行审核 。
+Seoraw's World 的监督者，在遵守公共约定的前提下，对 Contributor 的建设内容进行审核 。
 
 职责和权利：
 1. 拥有接受或驳回来自 Contributor 推送的权力
@@ -55,11 +55,12 @@ Seoraw's World 的维护者，在遵守公共约定的前提下，对 Contributo
 1. 正持有 Cotributor 身份并已向 Seoraw's World 提交过多次代码
 2. 角色自身具有一定的代码审查能力，能鉴别恶意代码
 
-### Player
+### Member
+Seoraw's World 的成员，在遵守公共约定且不破坏 Seoraw's World 的前提下做任何事。
 
-职责和权利：
-1. 监督其他角色的行为，并对破坏 Seoraw's World 的行为作出阻拦
+职责与权利：
+1. 监督其他角色的行为，对破坏 Seoraw's World 的行为作出阻拦
 
 要求：
-1. 任何人都可以成为 Player 角色。
+1. 所有人都是 Member 角色。
 
