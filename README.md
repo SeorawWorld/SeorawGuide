@@ -8,14 +8,11 @@ Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World �
 1. Seoraw's World 的所有角色始终是平等的，无论何时都不允许产生等级划分。
 2. Seoraw's World 的环境以及发展方向必须是良性与积极的。
 3. Seoraw's World 将处于完全透明的状态，这意味着任何人都可以获取 Seoraw's World 内的所有资源。
-
-除此之外。
-
-1. Seoraw's World 永久禁止管理员权限（`op-permission-level=0`）以及非生存模式。
-2. Seoraw's World 永久禁止控制台命令，同时也不允许保存任何运行日志。
-3. Seoraw's World 永久施行正版验证，同时也不允许设立任何白名单系统。
-4. Seoraw's World 公开服务器的[世界文件](http://idc.seoraw.world:32403/backup)与[插件源代码](https://github.com/SeorawWorld)。
-5. Seoraw's World 公开服务器的[基本设置](https://github.com/SeorawWorld/SeorawServer)。
+4. Seoraw's World 永久禁止管理员权限（`op-permission-level=0`）以及非生存模式。
+5. Seoraw's World 永久禁止控制台命令，同时也不允许保存任何运行日志。
+6. Seoraw's World 永久施行正版验证，同时也不允许设立任何白名单系统。
+7. Seoraw's World 公开服务器的[世界文件](http://idc.seoraw.world:32403/backup)与[插件源代码](https://github.com/SeorawWorld)。
+8. Seoraw's World 公开服务器的[基本设置](https://github.com/SeorawWorld/SeorawServer)。
 
 ## 2. 社区角色
 Seoraw's World 包含以下角色分类，分别对应不同的职责和权利。
@@ -31,11 +28,16 @@ Seoraw's World 的维护者，在遵守公共约定的前提下，保证 Seoraw'
 3. 确保 Seoraw's World 时刻使用最新的 Minecraft 版本
 4. 确保 Seoraw's World 不被破坏，在 Seoraw's World 遭受不可逆的损伤时停止服务
 5. 在必要时对服务器进行重启或临时关闭
-6. 是 Seoraw's World 所有仓库的拥有者，因此也拥有任命与罢免 Supervisor 的权限，但无论何时都必须严格遵守相应的流程
+6. 仓库的拥有者，因此也拥有任命与罢免 Supervisor 的权限，但无论何时都必须遵守相应的流程
 </pre>
 </details>
 
-> 由 Seoraw 本人担任，在必要时任何人都可以复制 Seoraw's World 并担任 Maintainer 角色。
+<details>
+<summary>要求</summary>
+<pre>
+1. 目前由 Seoraw 本人担任，在必要时任何人都可以复制 Seoraw's World 并担任 Maintainer 角色。
+</pre>
+</details>
 
 ### Supervisor
 Seoraw's World 的监督者，在遵守公共约定的前提下，对 Contributor 的建设内容进行审核 。
