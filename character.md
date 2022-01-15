@@ -1,4 +1,4 @@
-# Seoraw's World 社区角色
+# Seoraw's World Characters
 Seoraw's World 包含以下角色分类，分别对应不同的职责和权利。
 
 ### Maintainer 
