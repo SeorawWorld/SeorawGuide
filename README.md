@@ -19,6 +19,6 @@ Seoraw's World 的服务器 IP 地址是 `play.seoraw.world`，需要 Minecraft 
 ## 3. 相关链接
 
 1. [Seoraw's World 特性列表](https://github.com/SeorawWorld/SeorawGuide/blob/main/features/index.md)
-2. [Seoraw's World 建设指南](https://github.com/SeorawWorld/SeorawGuide/blob/main/contribute.md)
-3. [Seoraw's World 社区角色](https://github.com/SeorawWorld/SeorawGuide/blob/main/members.md)
+2. [Seoraw's World 建设指南](https://github.com/SeorawWorld/SeorawGuide/blob/main/contribution.md)
+3. [Seoraw's World 社区角色](https://github.com/SeorawWorld/SeorawGuide/blob/main/character.md)
 4. [Seoraw's World 开黑啦服务器](https://www.kaiheila.cn/app/invite/7dB9t0)
