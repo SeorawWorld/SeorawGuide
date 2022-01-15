@@ -41,4 +41,4 @@ Seoraw's World 的成员，在遵守公共约定且不破坏 Seoraw's World 的�
 1. 监督其他角色的行为，对破坏 Seoraw's World 的行为作出阻拦
 
 要求：
-1. 所有人都是 Member 角色。
+1. 所有人都是 Experiencer 角色。
