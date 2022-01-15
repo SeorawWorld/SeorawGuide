@@ -14,7 +14,7 @@ Seoraw's World 用户手册，本手册提到的所有内容在 Seoraw's World �
 1. Seoraw's World 永久禁止管理员权限（`op-permission-level=0`）以及非生存模式的角色出现。
 2. Seoraw's World 永久禁止控制台命令，同时也不会保存任何运行日志。
 3. Seoraw's World 永久施行正版验证，同时也不允许存在任何白名单系统。
-4. Seoraw's World 公开服务器内的[地图资源](https://github.com/SeorawWorld/SeorawGuide/blob/main/world_download.md)与插件源代码。
+4. Seoraw's World 公开服务器内的[地图资源](http://idc.seoraw.world:32403/backup)与插件源代码。
 5. Seoraw's World 公开服务器内的[基本设置](https://github.com/SeorawWorld/SeorawServer)。
 
 ## 2. 社区角色
